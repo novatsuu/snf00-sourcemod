@@ -1,2 +1,2 @@
-# snf00-sourcemod
-Source code for modding of "SNF00"
+# SNF00 : SOURCE CODE AND MODDING PACK
+Soon !
